@@ -5,3 +5,4 @@ texto='hola '+'esto es un curso de python'
 print(texto)
 aleatorio=randint(1,20)
 print(aleatorio)
+#Este comentario resuelve un error
